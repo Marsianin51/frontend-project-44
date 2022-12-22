@@ -10,11 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/Marsianin51/frontend-project-44.git"
   },
+  "type": "module",
   "author": "Marsianin",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Marsianin51/frontend-project-44/issues"
   },
   "homepage": "https://github.com/Marsianin51/frontend-project-44#readme"
-  "type": "module"
+
 }
