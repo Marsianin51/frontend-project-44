@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import readlineSync from 'readline-sync';
 
 const yes = 'yes';
@@ -19,8 +20,8 @@ const sendQuestion = (int) => {
 };
 const game = () => {
   greeting();
-  const num = getRandomInt(100);
   for (let i = 0; i < 3; i += 1) {
+    const num = getRandomInt(100);
     sendQuestion(num);
     answear = readlineSync.question('Your answer: ');
     if ((answear === yes && num % 2 === 0) || (answear === no && num % 2 !== 0)) {
