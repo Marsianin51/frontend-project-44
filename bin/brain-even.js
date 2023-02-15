@@ -30,7 +30,7 @@ const game = () => {
       console.log(`'yes' is wrong answer ;(. Correct answer was 'no'.\nLet's try again, ${name}!`);
       return;
     }
-    console.log(`Congratulations, ${name}!`);
   }
+  console.log(`Congratulations, ${name}!`);
 };
-export default game;
+export default console.log(game());
