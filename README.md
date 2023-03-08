@@ -5,3 +5,4 @@
 <a href= "https://asciinema.org/a/7MIlcFowq2Y62VKNG2g816Tg0">Пример работы игры brain-calc</a>
 <a href= "https://asciinema.org/a/NjTiveEIzHB8sGKNu4uJPorfP">Примера работы игры brain-gcd</a>
 <a href= "https://asciinema.org/a/lEphhfw8XWP1OlwCevAlzx3MD">Пример работы игры brain-progression</a>
+<a href= "https://asciinema.org/a/bJ5tAwVV8MYyeVf8aoAzWZkZa">Пример работы игры brain-prime</a>
