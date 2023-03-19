@@ -15,11 +15,12 @@
   "license": "ISC",
   "bin": {
     "brain-games": "bin/brain-games.js",
-    "brain-even": "bin/brain-even.js",
-    "brain-calc": "bin/brain-calc.js",
-    "brain-gcd": "brain-gcd.js",
-    "brain-progression": "brain-progression.js",
-    "brain-prime": "brain-prime.js."
+    "brain-even": "bin/startbrain-even.js",
+    "brain-calc": "bin/startbrain-calc.js",
+    "brain-gcd": "startbrain-gcd.js",
+    "brain-progression": "startbrain-progression.js",
+    "brain-prime": "startbrain-prime.js."
+    
   },
   "bugs": {
     "url": "https://github.com/Marsianin51/frontend-project-44/issues"
