@@ -17,7 +17,7 @@ const game = () => {
   const operator = operators[getRandomInt(3)];
   const num1 = getRandomInt(100);
   const num2 = getRandomInt(100);
-  const question = `${num1}${operator}${num2}`;
+  const question = `${num1} ${operator} ${num2}`;
   const answear = rigthanswear(num1, num2, operator);
   return [question, answear];
 };
