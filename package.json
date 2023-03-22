@@ -19,7 +19,7 @@
     "brain-calc": "bin/startbrain-calc.js",
     "brain-gcd": "bin/startbrain-gcd.js",
     "brain-progression": "bin/startbrain-progression.js",
-    "brain-prime": "bin/startbrain-prime.js."
+    "brain-prime": "bin/startbrain-prime.js"
     
   },
   "bugs": {
