@@ -11,7 +11,7 @@ const nod = (x, y) => {
 const game = () => {
   const num1 = getRandomInt(100);
   const num2 = getRandomInt(100);
-  const question = `${num1}  ${num2}`;
+  const question = `${num1} ${num2}`;
   const answear = (nod(num1, num2)).toString();
   return [question, answear];
 };
